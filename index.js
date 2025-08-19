@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Hello from my AUTOMATICALLY d  oksy h eployed Node.js app yay!');
+  res.send('Hello from my AUTOMATICALLY dhjfd  oksy h eployed Node.js app yay!');
 });
 
 app.listen(PORT, () => console.log(`Node app listening on port ${PORT}`));
